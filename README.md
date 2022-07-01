@@ -1,2 +1,2 @@
 # Hotel-rental
- rental hotel system
+Hotel rental reservation system, can manage, add, delete
